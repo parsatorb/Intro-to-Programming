@@ -1,2 +1,2 @@
 # Intro-to-Programming
-Crash course in programming in general (via Python)
+Notes for a course I'm building. In progress
